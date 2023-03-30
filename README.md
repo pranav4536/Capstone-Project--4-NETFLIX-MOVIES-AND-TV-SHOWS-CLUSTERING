@@ -1,4 +1,4 @@
-# Capstone-Project--4-NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING
+# Capstone-Project--4
 <p align="center"> 
   <img src="Images/netflix-logo-png-2574.png" alt="netflix-logo-png-2574.png" width="80px" height="80px">
 </p>
